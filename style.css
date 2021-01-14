@@ -1,0 +1,186 @@
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    body {
+        background-color: #fffff4;
+    }
+    
+    h1 {
+        font-family: "Bebas Neue", cursive;
+    }
+    
+    p,
+    h3 {
+        font-family: "Roboto", sans-serif;
+    }
+    /*START HEADER SECTION*/
+    
+    .navbar {
+        margin: 20px 0;
+        background-color: #fffff4;
+    }
+    
+    .navbar ul li {
+        margin: 0 10px;
+    }
+    
+    .nav-item {
+        font-weight: 600;
+    }
+    
+    .navbar-brand img {
+        width: 280px;
+    }
+    /*END HEADER SECTION*/
+    /*START BANNER SECTION*/
+    
+    .banner {
+        margin-bottom: 120px;
+    }
+    
+    .banner .col-md-6 img {
+        width: 90%;
+    }
+    
+    .banner {
+        padding-left: 15px;
+    }
+    
+    .banner .btn {
+        background-color: #2A1E59;
+        color: white;
+        padding: 15px 35px;
+    }
+    
+    .banner button {
+        border-radius: 8px;
+    }
+    
+    .banner h1:first-child {
+        font-size: 80px;
+        color: #363958;
+        line-height: 30px;
+    }
+    
+    .banner h1:nth-child(2) {
+        font-size: 80px;
+        color: #76c27e;
+    }
+    
+    .banner p {
+        color: #3E3E3E;
+    }
+    /*END BANNER SECTION*/
+    /*START THIRD SECTION*/
+    
+    .third-section {
+        margin-bottom: 120px;
+    }
+    
+    .third-section .right-side img {
+        width: 90%;
+    }
+    
+    .right-side {
+        text-align: center;
+    }
+    
+    .third-section .left-side img {
+        width: 15%;
+        height: 15%;
+    }
+    
+    .third-section .custom-border {
+        border-radius: 20px;
+    }
+    
+    .third-section .fit {
+        width: 75%;
+    }
+    
+    .third-section .free {
+        width: 75%;
+    }
+    
+    .third-section .contact {
+        width: 75%;
+    }
+    
+    .third-section h4 {
+        font-size: 21px;
+        font-weight: bold;
+        color: #363958;
+    }
+    
+    .third-section p {
+        font-size: 16px;
+        line-height: 26px;
+        color: #3E3E3E;
+    }
+    /*END THIRD SECTION*/
+    /* START CASUAL SECTION + TRAVEL SECTION*/
+    
+    .casual-section .custom-margin-top {
+        margin-top: -400px;
+        padding-top: -350px;
+    }
+    
+    .casual-section img,
+    .travel-section img {
+        width: 100%;
+    }
+    
+    .nike-bag,
+    .school-bag,
+    .security-bag {
+        background-color: #F1F1F1;
+        border-radius: 20px;
+    }
+    
+    .casual-section h4,
+    .travel-section h4 {
+        color: #363958;
+        font-size: 21px;
+        font-weight: bold;
+    }
+    
+    .casual-section,
+    .travel-section {
+        font-size: 16px;
+        line-height: 26px;
+        color: #3E3E3E;
+    }
+    
+    .casual-section h1,
+    .travel-section h1 {
+        color: #363958;
+    }
+    
+    .casual-section span,
+    .travel-section span {
+        color: #76c27e;
+        font-size: 36px;
+        font-weight: bold;
+    }
+    
+    .casual-section button,
+    .travel-section button {
+        background-color: #2A1E59;
+        color: white;
+        padding: 13px 30px;
+        border-radius: 10px;
+    }
+    
+    .casual-section button:hover,
+    .travel-section button:hover {
+        color: white;
+    }
+    /* END CASUAL SECTION + TRAVEL SECTION*/
+    /* START FOOTER SECTION*/
+    
+    footer p {
+        font-weight: bold;
+    }
+    /* END FOOTER SECTION*/
